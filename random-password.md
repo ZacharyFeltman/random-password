@@ -8,3 +8,11 @@ Here is the live link and repository for my random password generator.  I have w
  - User MUST select least one, but can select all of the criteria needed to create a password.
  - User can only choose a password length from 8-128. If user selects a number outside these parameters, the system asks user to enter a valid amount.
  - When user answers prompts within the parameters set, then a random password will be displayed on the screen.
+
+## Screenshot
+
+![screenshot of page](screenshot.png)
+
+## Live Link
+https://zacharyfeltman.github.io/random-password/
+
