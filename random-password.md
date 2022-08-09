@@ -15,4 +15,3 @@ Here is the live link and repository for my random password generator.  I have w
 
 ## Live Link
 https://zacharyfeltman.github.io/random-password/
-
